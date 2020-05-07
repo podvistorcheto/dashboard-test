@@ -1,3 +1,12 @@
+Data Visualization Applications with Dash frameworks and Python usin
+
+full tutorial available here
+https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/
+
+
+
+
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome podvistorcheto,
